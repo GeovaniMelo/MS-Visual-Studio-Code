@@ -1,0 +1,6 @@
+python3 -m pip install pyinstaller --upgrade
+
+pyinstaller --onefile "main - estoque-preco.py"
+
+
+pyinstaller --onefile "C:\\Users\\geova\\PycharmProjects\\EstoqueEcommerce\\main - estoque-preco.py"
