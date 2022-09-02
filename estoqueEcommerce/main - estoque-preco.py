@@ -77,8 +77,8 @@ def main(margem_total):
     }
                
     payload_login = json.dumps({
-        "paaLogin": "32978159000171", 
-        "paaSenha": "9xN{t:8|]$W/"
+        "paaLogin": "username", 
+        "paaSenha": "password"
     })
 
 
